@@ -6,6 +6,11 @@ A lightly-curated list of resources for X11.
 
 * Window Managers
 
+- [[https://www.fvwm.org/][FVWM]], the F? Virtual Display Manager
+- [[https://www.windowmaker.org/][WindowMaker]], a window manager that emulates NEXTSTEP look and feel
+  - [[https://repo.or.cz/wmaker-crm.git][Git repo]]
+  - [[https://github.com/window-maker/wmaker][GitHub mirror]]
+
 * Desktop Environments
 
 * Applications
