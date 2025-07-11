@@ -13,6 +13,9 @@ A lightly-curated list of resources for X11.
 
 * Desktop Environments
 
+- [[https://www.trinitydesktop.org/][Trinity Desktop]], a fork from KDE 3.x series
+- [[http://www.xfce.org][XFCE]], a lightweight desktop environment.
+
 * Applications
 
 * Implementations
