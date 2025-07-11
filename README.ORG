@@ -32,3 +32,6 @@ A lightly-curated list of resources for X11.
 
 * Misc Links and Articles
 
+- [[https://xteddy.org/xwinman/][Window Managers for X]], a site containing a truckload of info about X
+- [[https://asterisk.dynevor.org/xfree-forked.html][The XFree / X.Org fork and open source governance]]
+
