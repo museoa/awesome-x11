@@ -1,1 +1,16 @@
 # -*- mode: org; coding: utf-8-unix; fill-column: 80 -*-
+
+#+title: Awesome X11
+
+A lightly-curated list of resources for X11.
+
+* Window Managers
+
+* Desktop Environments
+
+* Applications
+
+* Implementations
+
+* Misc Links and Articles
+
