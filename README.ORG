@@ -26,6 +26,7 @@ A lightly-curated list of resources for X11.
 * Implementations
 
 - [[https://github.com/tinycorelinux/tinyx][tinyX]], a tiny implementation
+- [[https://github.com/marchaesen/vcxsrv][vcxsrv]], a Windows X server based on XOrg
 - [[https://www.xfree86.org/][XFree86]], a historic reference implementation for Unix-like systems
 - [[https://www.x.org/wiki/][XOrg]], the top-of-mind reference implementation for Unix-like systems
 - [[https://github.com/PerikiyoXD/rxserver/][RXServer]], an experimental implementation in Rust
