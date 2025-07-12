@@ -21,6 +21,8 @@ A lightly-curated list of resources for X11.
 - [[https://picom.app/][Picom]], a compositor for X11
   - [[https://github.com/yshui/picom][GitHub repo]]
 
+* Libraries
+
 * Implementations
 
 - [[https://github.com/tinycorelinux/tinyx][tinyX]], a tiny implementation
