@@ -20,6 +20,12 @@ A lightly-curated list of resources for X11.
 
 * Desktop Environments
 
+- [[https://sourceforge.net/p/cdesktopenv/wiki/Home/][Common Desktop Environment]], an oldschool desktop environment
+- [[https://www.enlightenment.org/][Enlightenment]], an elegant desktop environment
+- [[https://github.com/gershwin-desktop/gershwin-desktop][Gershwin Desktop]], OSX-like desktop environment exclusive in [[https://www.ghostbsd.org/][GhostBSD]]
+- [[https://mate-desktop.org/][MATE]], a fork/continuation of [[https://www.gnome.org/][GNOME]] 2 series
+- [[https://www.bodhilinux.com/moksha-desktop/][Moksha Desktop]], a fork from Enlightenment DR17
+  - [[https://github.com/JeffHoogland/moksha][GitHub repo]]
 - [[https://www.trinitydesktop.org/][Trinity Desktop]], a fork from [[https://kde.org/][KDE]] 3.x series
 - [[http://www.xfce.org][XFCE]], a lightweight desktop environment.
 
