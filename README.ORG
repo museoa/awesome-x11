@@ -54,6 +54,8 @@ A lightly-curated list of resources for X11.
 - [[https://conky.cc/][Conky]], lightweight system monitor
   - [[https://github.com/brndnmtthws/conky][GitHub repo]]
 - [[http://aanatoly.github.io/fbpanel/][Fbpanel]]l lightweight desktop panel
+- [[https://nsxiv.codeberg.page/][Nsxiv]], Neo Simple X Image Viewer
+  - [[https://codeberg.org/nsxiv/nsxiv][Codeberg repo]]
 - [[https://picom.app/][Picom]], a compositor for X11
   - [[https://github.com/yshui/picom][GitHub repo]]
 - [[https://codeberg.org/itszariep/sglogout][SGLogout]], a logout menu
