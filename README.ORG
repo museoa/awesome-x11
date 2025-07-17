@@ -12,6 +12,7 @@ A lightly-curated list of resources for X11.
 - [[https://github.com/driusan/dewm][Dewm]], an autotiling window manager written in Go, in a literate programming
   style
 - [[https://www.fvwm.org/][FVWM]], the F? Virtual Display Manager
+- [[https://codeberg.org/museoa/hackedbox][Hackedbox]], the bastard son of Blackbox
 - [[https://ice-wm.org/][IceWM]], an easy and simple window manager
   - [[https://github.com/ice-wm/icewm/][GitHub repo]]
 - [[https://github.com/marshallmason/ittywm][Ittywm]], another tiny window manager
