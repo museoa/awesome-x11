@@ -60,6 +60,8 @@ A lightly-curated list of resources for X11.
 - [[https://picom.app/][Picom]], a compositor for X11
   - [[https://github.com/yshui/picom][GitHub repo]]
 - [[https://codeberg.org/itszariep/sglogout][SGLogout]], a logout menu
+- [[https://itn-web.it.liu.se/~stegu76/xteddy/][XTeddy]], a Teddy Bear!
+  - [[https://codeberg.org/museoa/xteddy][Codeberg/Museoa mirror]]
 
 * Libraries
 
