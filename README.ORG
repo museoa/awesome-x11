@@ -76,6 +76,7 @@ A lightly-curated list of resources for X11.
 - [[https://github.com/marchaesen/vcxsrv][vcxsrv]], a Windows X server based on XOrg
 - [[https://www.xfree86.org/][XFree86]], a historic reference implementation for Unix-like systems
 - [[https://www.x.org/wiki/][XOrg]], the top-of-mind reference implementation for Unix-like systems
+  - [[https://www.xquartz.org/][XQuartz]], an effort to build XOrg in MacOS
 - [[https://xenocara.org/][Xenocara]], an infrastructure to build XOrg, kept by [[https://www.openbsd.org/][OpenBSD]] project
   - [[https://github.com/openbsd/xenocara][GitHub mirror]] from [[https://cvsweb.openbsd.org/xenocara/][official CVS repo]]
 
