@@ -16,6 +16,7 @@ A lightly-curated list of resources for X11.
 - [[https://ice-wm.org/][IceWM]], an easy and simple window manager
   - [[https://github.com/ice-wm/icewm/][GitHub repo]]
 - [[https://github.com/marshallmason/ittywm][Ittywm]], another tiny window manager
+- [[https://github.com/janbina/swm][Janbina SWM]], minimal window manager written in Go
 - [[https://github.com/thomasysliu/node-wm/][Node-WM]], a NodeJS-based window manager
 - [[https://openbox.org/][Openbox]], a minimalistic, configurable window manager
   - [[git://git.openbox.org/mikachu/openbox][Git repo]]
@@ -24,6 +25,7 @@ A lightly-curated list of resources for X11.
   - [[https://github.com/SawfishWM][GitHub org]]
 - [[https://www.giannone.eu/skatoswm/][SkatOSWM]], very small window manager which centers all new windows on the
   screen
+- [[http://swm.sourceforge.net/][SWM]], small window manager
 - [[https://github.com/adamnew123456/SmallWM][SmallWM]], Xlib window manager inspired by TinyWM
 - [[http://incise.org/tinywm.html][TinyWM]], the reference implementation for a tiny X11 window manager
   - [[https://github.com/mackstann/tinywm][GitHub repo]]
