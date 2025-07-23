@@ -17,6 +17,7 @@ A lightly-curated list of resources for X11.
   - [[https://github.com/ice-wm/icewm/][GitHub repo]]
 - [[https://github.com/marshallmason/ittywm][Ittywm]], another tiny window manager
 - [[https://github.com/janbina/swm][Janbina SWM]], minimal window manager written in Go
+- [[https://www.uninformativ.de/git/katriawm/file/README.html][KatriaWM, a non-reparenting, dynamic window manager with decorations]]
 - [[https://github.com/thomasysliu/node-wm/][Node-WM]], a NodeJS-based window manager
 - [[https://openbox.org/][Openbox]], a minimalistic, configurable window manager
   - [[git://git.openbox.org/mikachu/openbox][Git repo]]
@@ -54,6 +55,9 @@ A lightly-curated list of resources for X11.
 
 * Applications
 
+- [[https://sourceforge.net/projects/twelveto11/][12to11]], tool for running Wayland applications on an X server
+  - [[https://git.linuxping.win/12to11/12to11][Forgejo fork]]
+  - [[https://codeberg.org/museoa/12to11/][Codeberg backup fork]]
 - [[https://conky.cc/][Conky]], lightweight system monitor
   - [[https://github.com/brndnmtthws/conky][GitHub repo]]
 - [[http://aanatoly.github.io/fbpanel/][Fbpanel]], lightweight desktop panel
@@ -93,3 +97,5 @@ A lightly-curated list of resources for X11.
 
 - [[https://xteddy.org/xwinman/][Window Managers for X]], a site containing a truckload of info about X
 - [[https://asterisk.dynevor.org/xfree-forked.html][The XFree / X.Org fork and open source governance]]
+- [[https://www.uninformativ.de/blog/postings/2016-01-05/0/POSTING-en.html][katriawm: The adventure of writing your own window manager]]
+- [[https://flak.tedunangst.com/post/killing-X11][Killing X11]]
