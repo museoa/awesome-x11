@@ -4,6 +4,9 @@
 
 A lightly-curated list of resources for X11.
 
+- [[https://codeberg.org/museoa/awesome-x11][Main on Codeberg]]
+- [[https://github.com/museoa/awesome-x11][Mirror on GitHub]]
+
 * Window Managers
 
 - [[https://github.com/bradleythughes/blackbox][Blackbox]], a minimalistic window manager
