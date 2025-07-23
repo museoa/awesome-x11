@@ -101,4 +101,12 @@ A lightly-curated list of resources for X11.
 - [[https://xteddy.org/xwinman/][Window Managers for X]], a site containing a truckload of info about X
 - [[https://asterisk.dynevor.org/xfree-forked.html][The XFree / X.Org fork and open source governance]]
 - [[https://www.uninformativ.de/blog/postings/2016-01-05/0/POSTING-en.html][katriawm: The adventure of writing your own window manager]]
+- How X Window Managers Work, And How To Write One 
+  - [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/][Part I]]
+  - [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-ii/][Part II]]
+  - [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-iii/][Part III]]
+  - [[https://github.com/jichu4n/basic_wm][GitHub]]
 - [[https://flak.tedunangst.com/post/killing-X11][Killing X11]]
+- [[https://grimoire.carcano.ch/blog/x-window-tutorial-x-display-server-howto-and-cheatsheet/][X Window Tutorial – X Display Server HowTo And Cheatsheet]]
+- [[https://en.wikibooks.org/wiki/Guide_to_X11][Guide to X11]], Wikibook
+- [[https://josherv.in/2018/01/01/wm/][Writing an X11 Window Manager]]
