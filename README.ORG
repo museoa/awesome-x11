@@ -69,6 +69,8 @@ A lightly-curated list of resources for X11.
 - [[https://picom.app/][Picom]], a compositor for X11
   - [[https://github.com/yshui/picom][GitHub repo]]
 - [[https://codeberg.org/itszariep/sglogout][SGLogout]], a logout menu
+- [[https://www.jwz.org/xscreensaver/][XSceenSaver]], the standard screen saver collection shipped on most Linux and
+  Unix systems running the X11 Window System, since its first release in 1992
 - [[https://itn-web.it.liu.se/~stegu76/xteddy/][XTeddy]], a Teddy Bear!
   - [[https://codeberg.org/museoa/xteddy][Codeberg/Museoa mirror]]
 
@@ -110,3 +112,6 @@ A lightly-curated list of resources for X11.
 - [[https://grimoire.carcano.ch/blog/x-window-tutorial-x-display-server-howto-and-cheatsheet/][X Window Tutorial – X Display Server HowTo And Cheatsheet]]
 - [[https://en.wikibooks.org/wiki/Guide_to_X11][Guide to X11]], Wikibook
 - [[https://josherv.in/2018/01/01/wm/][Writing an X11 Window Manager]]
+- [[https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/][Wayland and Screen Savers]]
+- [[https://www.jwz.org/blog/2025/07/xscreensaver-wayland-and-locking/][XScreenSaver, Wayland and locking]]
+- [[https://www.jwz.org/xscreensaver/xscreensaver-windows.html][XScreenSaver and Windows]]
