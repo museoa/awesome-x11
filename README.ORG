@@ -14,6 +14,7 @@ A lightly-curated list of resources for X11.
   - [[https://github.com/BobdaProgrammer/doWM][GitHub repo]]
 - [[https://github.com/driusan/dewm][Dewm]], an autotiling window manager written in Go, in a literate programming
   style
+- [[https://dwm.suckless.org/][dwm]], minimalistic dynamic tiling window manager from [[https://suckless.org/][suckless]]
 - [[https://www.fvwm.org/][FVWM]], the F? Virtual Display Manager
 - [[https://codeberg.org/museoa/hackedbox][Hackedbox]], the bastard son of Blackbox
 - [[https://ice-wm.org/][IceWM]], an easy and simple window manager
