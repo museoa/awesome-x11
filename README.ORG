@@ -64,6 +64,7 @@ A lightly-curated list of resources for X11.
   - [[https://codeberg.org/museoa/12to11/][Codeberg backup fork]]
 - [[https://conky.cc/][Conky]], lightweight system monitor
   - [[https://github.com/brndnmtthws/conky][GitHub repo]]
+- [[https://github.com/h2337/connmap][connmap]], a widget that displays the location of your current network connections on a world map
 - [[http://aanatoly.github.io/fbpanel/][Fbpanel]], lightweight desktop panel
 - [[https://nsxiv.codeberg.page/][Nsxiv]], Neo Simple X Image Viewer
   - [[https://codeberg.org/nsxiv/nsxiv][Codeberg repo]]
