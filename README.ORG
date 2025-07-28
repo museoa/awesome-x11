@@ -73,6 +73,7 @@ A lightly-curated list of resources for X11.
 - [[https://picom.app/][Picom]], a compositor for X11
   - [[https://github.com/yshui/picom][GitHub repo]]
 - [[https://codeberg.org/itszariep/sglogout][SGLogout]], a logout menu
+- [[https://st.suckless.org/][st]], suckless' simple terminal emulator
 - [[https://www.jwz.org/xscreensaver/][XSceenSaver]], the standard screen saver collection shipped on most Linux and
   Unix systems running the X11 Window System, since its first release in 1992
 - [[https://itn-web.it.liu.se/~stegu76/xteddy/][XTeddy]], a Teddy Bear!
