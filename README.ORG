@@ -106,6 +106,7 @@ A lightly-curated list of resources for X11.
 - [[https://x11libre.net/][XLibre]], a hard fork from XOrg aiming to provide a more actively maintained and
   modernized alternative to the aging X11 system
   - [[https://github.com/X11Libre/xserver][GitHub repo]]
+- [[https://github.com/pyb/zen][zen]], a small implementation in Common Lisp
 
 * Misc Links and Articles
 
