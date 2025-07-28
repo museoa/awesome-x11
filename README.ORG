@@ -73,6 +73,7 @@ A lightly-curated list of resources for X11.
   Unix systems running the X11 Window System, since its first release in 1992
 - [[https://itn-web.it.liu.se/~stegu76/xteddy/][XTeddy]], a Teddy Bear!
   - [[https://codeberg.org/museoa/xteddy][Codeberg/Museoa mirror]]
+- [[https://github.com/Xtools-ng][Xtools-ng]], an organization forking many classic X11 tools
 
 * Libraries
 
