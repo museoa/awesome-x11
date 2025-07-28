@@ -24,6 +24,7 @@ A lightly-curated list of resources for X11.
 - [[https://github.com/thomasysliu/node-wm/][Node-WM]], a NodeJS-based window manager
 - [[https://openbox.org/][Openbox]], a minimalistic, configurable window manager
   - [[git://git.openbox.org/mikachu/openbox][Git repo]]
+- [[https://github.com/MarcusGrass/pgwm][pgwm]], minimal tiling window manager written in Rust
 - [[https://github.com/duckinator/possum-wm][Possum WM]], keyboard-driven window manager for palmpc-type devices
 - [[https://sawfish.tuxfamily.org/][Sawfish]], a window manager hackable in a Lisp dialect
   - [[https://github.com/SawfishWM][GitHub org]]
