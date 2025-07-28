@@ -79,6 +79,11 @@ A lightly-curated list of resources for X11.
 - [[https://st.suckless.org/][st]], suckless' simple terminal emulator
 - [[https://tools.suckless.org/x/svkbd/][SVKBD]], simple virtual keyboard
 - [[https://tools.suckless.org/tabbed/][tabbed]], display windows of xembed-aware X programs (like st) as tabs
+- [[http://www.xbill.org/][XBill]], prevent an evil hacker known as "Bill" from infecting computers with
+  his operating system and fix the already infected computers before its too
+  late!
+  - [[https://github.com/Xylemon/xlennart][XLennart]], fork of XBill; now the menace is a hacker known as "Lennart" which
+    tries to infect computers with his evil [[https://suckless.org/sucks/systemd/][init system]].
 - [[https://www.jwz.org/xscreensaver/][XSceenSaver]], the standard screen saver collection shipped on most Linux and
   Unix systems running the X11 Window System, since its first release in 1992
 - [[https://itn-web.it.liu.se/~stegu76/xteddy/][XTeddy]], a Teddy Bear!
