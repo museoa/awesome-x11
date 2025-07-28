@@ -20,7 +20,7 @@ A lightly-curated list of resources for X11.
   - [[https://github.com/ice-wm/icewm/][GitHub repo]]
 - [[https://github.com/marshallmason/ittywm][Ittywm]], another tiny window manager
 - [[https://github.com/janbina/swm][Janbina SWM]], minimal window manager written in Go
-- [[https://www.uninformativ.de/git/katriawm/file/README.html][KatriaWM, a non-reparenting, dynamic window manager with decorations]]
+- [[https://www.uninformativ.de/git/katriawm/file/README.html][KatriaWM]], a non-reparenting, dynamic window manager with decorations
 - [[https://github.com/thomasysliu/node-wm/][Node-WM]], a NodeJS-based window manager
 - [[https://openbox.org/][Openbox]], a minimalistic, configurable window manager
   - [[git://git.openbox.org/mikachu/openbox][Git repo]]
