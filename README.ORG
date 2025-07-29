@@ -44,6 +44,7 @@ A lightly-curated list of resources for X11.
   - [[https://github.com/window-maker/wmaker][GitHub mirror]]
 - [[https://github.com/BurntSushi/wingo][Wingo]], a window manager written in Go
 - [[https://github.com/Zamony/wmwm][Wmwm]], a window manager fully written in Go
+- [[https://github.com/jcs/xbanish][xbanish]], tool to automatically hide the mouse cursor when typing
 - [[https://github.com/mcpcpc/xwm][Xwm]], a tiny floating window manager using XCB
 - [[https://github.com/yazeed1s/zwm][Zwm]], a minimalistic window manager written in C
 
