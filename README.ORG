@@ -74,6 +74,7 @@ A lightly-curated list of resources for X11.
   - [[https://github.com/yshui/picom][GitHub repo]]
 - [[https://codeberg.org/itszariep/sglogout][SGLogout]], a logout menu
 - [[https://st.suckless.org/][st]], suckless' simple terminal emulator
+- [[https://tools.suckless.org/x/svkbd/][SVKBD]], simple virtual keyboard
 - [[https://tools.suckless.org/tabbed/][tabbed]], display windows of xembed-aware X programs (like st) as tabs
 - [[https://www.jwz.org/xscreensaver/][XSceenSaver]], the standard screen saver collection shipped on most Linux and
   Unix systems running the X11 Window System, since its first release in 1992
