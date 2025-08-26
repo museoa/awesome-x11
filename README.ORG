@@ -135,3 +135,20 @@ A lightly-curated list of resources for X11.
 - [[https://www.jwz.org/xscreensaver/xscreensaver-windows.html][XScreenSaver and Windows]]
 - [[https://magcius.github.io/xplain/article/index.html][XPlain]], Interactive explanation of the graphics parts of the X11 protocol
 - [[https://dl.acm.org/doi/pdf/10.1145/74261.74264][Ada Implementation of an X Window System Server]] by Stuart Lewin
+* Video Presentations
+
+- [[https://www.youtube.com/@MITVideoProductions/][MIT Video Productions]] has many videos about about [[https://ist.mit.edu/athena][Project Athena]]:
+  - Project Athena - X Window System Users and Developers Conference:
+    - Day 1, 1987-01-14
+      - [[https://www.youtube.com/watch?v=JLPY8i_b-oM][Part 1]]
+      - [[https://www.youtube.com/watch?v=vuVyZdnowBY][Part 2]]
+      - [[https://www.youtube.com/watch?v=C-qarANu6B8][Part 3]]
+      - [[https://www.youtube.com/watch?v=8SfNmDu2ia0][Part 4]]
+    - Day 2, 1987-01-15
+      - [[https://www.youtube.com/watch?v=jqOtAFzMYHE][Part 1]]
+      - [[https://www.youtube.com/watch?v=lwjfGSw1OSQ][Part 2]]
+      - [[https://www.youtube.com/watch?v=1cqk-QFjvWo][Part 3]]
+      - [[https://www.youtube.com/watch?v=OTAI2-jYBa8][Part 4]]
+      - [[https://www.youtube.com/watch?v=4YRaM9EQ74o][Part 5]]
+      - [[https://www.youtube.com/watch?v=vKfzJGZtwxU][Part 6]]
+- [[https://www.youtube.com/watch?v=&list=PLKHPCGvTwsmHipWKuC0odotfNhFWSjN4k][Infinite History]]
