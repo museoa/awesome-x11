@@ -83,7 +83,7 @@ A lightly-curated list of resources for X11.
   his operating system and fix the already infected computers before its too
   late!
   - [[https://github.com/Xylemon/xlennart][XLennart]], fork of XBill; now the menace is a hacker known as "Lennart" which
-    tries to infect computers with his evil [[https://suckless.org/sucks/systemd/][init system]].
+    tries to infect computers with his evil [[https://suckless.org/sucks/systemd/][init system]]
 - [[https://www.jwz.org/xscreensaver/][XSceenSaver]], the standard screen saver collection shipped on most Linux and
   Unix systems running the X11 Window System, since its first release in 1992
 - [[https://itn-web.it.liu.se/~stegu76/xteddy/][XTeddy]], a Teddy Bear!
@@ -132,4 +132,4 @@ A lightly-curated list of resources for X11.
 - [[https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/][Wayland and Screen Savers]]
 - [[https://www.jwz.org/blog/2025/07/xscreensaver-wayland-and-locking/][XScreenSaver, Wayland and locking]]
 - [[https://www.jwz.org/xscreensaver/xscreensaver-windows.html][XScreenSaver and Windows]]
-- [[https://magcius.github.io/xplain/article/index.html][XPlain]], Interactive explanation of the graphics parts of the X11 protocol.
+- [[https://magcius.github.io/xplain/article/index.html][XPlain]], Interactive explanation of the graphics parts of the X11 protocol
