@@ -95,6 +95,7 @@ A lightly-curated list of resources for X11.
 - [[https://www.sminez.dev/penrose/][Penrose]], a Rust library for writing X11 window managers
   - [[https://github.com/sminez/penrose][GitHub repo]]
 - [[https://codeberg.org/itszariep/sgxpos][SGXPos]], Simple GTK X11 Positioning library
+- [[https://github.com/glencornell/xmada][xmada]], Ada Language bindings for Motif, Xlib and Xt
 
 * Implementations
 
