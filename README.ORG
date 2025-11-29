@@ -95,6 +95,7 @@ A lightly-curated list of resources for X11.
 - [[https://www.sminez.dev/penrose/][Penrose]], a Rust library for writing X11 window managers
   - [[https://github.com/sminez/penrose][GitHub repo]]
 - [[https://codeberg.org/itszariep/sgxpos][SGXPos]], Simple GTK X11 Positioning library
+- [[https://github.com/waddlesplash/xlibe][xlibe]], Xlib compat layer for [[https://www.haiku-os.org/][Haiku]] OS
 - [[https://github.com/glencornell/xmada][xmada]], Ada Language bindings for Motif, Xlib and Xt
 
 * Implementations
@@ -135,6 +136,8 @@ A lightly-curated list of resources for X11.
 - [[https://www.jwz.org/xscreensaver/xscreensaver-windows.html][XScreenSaver and Windows]]
 - [[https://magcius.github.io/xplain/article/index.html][XPlain]], Interactive explanation of the graphics parts of the X11 protocol
 - [[https://dl.acm.org/doi/pdf/10.1145/74261.74264][Ada Implementation of an X Window System Server]] by Stuart Lewin
+- [[https://web.archive.org/web/20180113143226/http://www.rahul.net/kenton/xsites.html][Misc X links]]
+
 * Video Presentations
 
 - [[https://www.youtube.com/@MITVideoProductions/][MIT Video Productions]] has many videos about about [[https://ist.mit.edu/athena][Project Athena]]:
