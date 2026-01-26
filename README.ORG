@@ -7,6 +7,26 @@ A lightly-curated list of resources for X11.
 - [[https://codeberg.org/museoa/awesome-x11][Main on Codeberg]]
 - [[https://github.com/museoa/awesome-x11][Mirror on GitHub]]
 
+* X Server Implementations
+
+- [[https://git.dec05eba.com/phoenix/about/][Phoenix]], a modern implementation made from scratch in [[https://ziglang.org/][Zig]]
+- [[https://github.com/ghaerr/microwindows][Microwindows]], also called Nano-X, small graphical windowing system that
+  implements both Win32 and Nano-X (X11-like) APIs for clipped graphics drawing
+  in windows
+- [[https://github.com/PerikiyoXD/rxserver/][RXServer]], an experimental implementation in Rust
+- [[https://github.com/tinycorelinux/tinyx][tinyX]], a tiny implementation
+- [[https://github.com/marchaesen/vcxsrv][vcxsrv]], a Windows X server based on XOrg
+- [[https://www.xfree86.org/][XFree86]], a historic reference implementation for Unix-like systems
+- [[https://www.x.org/wiki/][XOrg]], the top-of-mind reference implementation for Unix-like systems
+  - [[https://www.xquartz.org/][XQuartz]], an effort to build XOrg in MacOS
+- [[https://xenocara.org/][Xenocara]], an infrastructure to build XOrg, kept by [[https://www.openbsd.org/][OpenBSD]] project
+  - [[https://github.com/openbsd/xenocara][GitHub mirror]] from [[https://cvsweb.openbsd.org/xenocara/][official CVS repo]]
+
+- [[https://x11libre.net/][XLibre]], a hard fork from XOrg aiming to provide a more actively maintained and
+  modernized alternative to the aging X11 system
+  - [[https://github.com/X11Libre/xserver][GitHub repo]]
+- [[https://github.com/pyb/zen][zen]], a small implementation in Common Lisp
+
 * X Window Managers
 
 - [[https://github.com/bradleythughes/blackbox][Blackbox]], a minimalistic window manager
@@ -98,32 +118,12 @@ A lightly-curated list of resources for X11.
 - [[https://github.com/waddlesplash/xlibe][xlibe]], Xlib compat layer for [[https://www.haiku-os.org/][Haiku]] OS
 - [[https://github.com/glencornell/xmada][xmada]], Ada Language bindings for Motif, Xlib and Xt
 
-* X Server Implementations
-
-- [[https://git.dec05eba.com/phoenix/about/][Phoenix]], a modern implementation made from scratch in [[https://ziglang.org/][Zig]]
-- [[https://github.com/ghaerr/microwindows][Microwindows]], also called Nano-X, small graphical windowing system that
-  implements both Win32 and Nano-X (X11-like) APIs for clipped graphics drawing
-  in windows
-- [[https://github.com/PerikiyoXD/rxserver/][RXServer]], an experimental implementation in Rust
-- [[https://github.com/tinycorelinux/tinyx][tinyX]], a tiny implementation
-- [[https://github.com/marchaesen/vcxsrv][vcxsrv]], a Windows X server based on XOrg
-- [[https://www.xfree86.org/][XFree86]], a historic reference implementation for Unix-like systems
-- [[https://www.x.org/wiki/][XOrg]], the top-of-mind reference implementation for Unix-like systems
-  - [[https://www.xquartz.org/][XQuartz]], an effort to build XOrg in MacOS
-- [[https://xenocara.org/][Xenocara]], an infrastructure to build XOrg, kept by [[https://www.openbsd.org/][OpenBSD]] project
-  - [[https://github.com/openbsd/xenocara][GitHub mirror]] from [[https://cvsweb.openbsd.org/xenocara/][official CVS repo]]
-
-- [[https://x11libre.net/][XLibre]], a hard fork from XOrg aiming to provide a more actively maintained and
-  modernized alternative to the aging X11 system
-  - [[https://github.com/X11Libre/xserver][GitHub repo]]
-- [[https://github.com/pyb/zen][zen]], a small implementation in Common Lisp
-
 * Misc Links and Articles
 
 - [[https://xteddy.org/xwinman/][Window Managers for X]], a site containing a truckload of info about X
 - [[https://asterisk.dynevor.org/xfree-forked.html][The XFree / X.Org fork and open source governance]]
 - [[https://www.uninformativ.de/blog/postings/2016-01-05/0/POSTING-en.html][katriawm: The adventure of writing your own window manager]]
-- How X Window Managers Work, And How To Write One 
+- How X Window Managers Work, And How To Write One
   - [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/][Part I]]
   - [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-ii/][Part II]]
   - [[https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-iii/][Part III]]
